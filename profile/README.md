@@ -1,12 +1,6 @@
-## Hi there 👋
+# LS-StudyCodes
 
-<!--
+This is my personal repository for my files that I use for my studies, so there may be repositories with incomplete or messy files and codes, but that's part of the process of growing and learning.
+Feel free to clone the repositories and use the code however you like.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**If you like any of the repositories? Leave me a ⭐ to help me out!**
